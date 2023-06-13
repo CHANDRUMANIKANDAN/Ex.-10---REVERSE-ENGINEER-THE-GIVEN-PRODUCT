@@ -32,11 +32,17 @@
 
 ## Input:
 
+![exp10_empd](https://github.com/CHANDRUMANIKANDAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118644502/6cd0d28f-cb48-419d-9533-6e512a129616)
+
+
 ### Output:
 
+![exp10_empd2](https://github.com/CHANDRUMANIKANDAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118644502/cd849b8d-ba1a-4eec-b22a-d1b0c59983da)
 
-### Name:
-### Register Number:
+![exp10_empd3](https://github.com/CHANDRUMANIKANDAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118644502/b6912483-d183-4d7e-93d7-1a5a0f73930b)
+
+### Name: CHANDRU M
+### Register Number: 212222100009
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
